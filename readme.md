@@ -1,13 +1,8 @@
-# App da Estação de Coleta
+App da Estação de Coleta
 
 Projeto responsável pelo gerenciamento dos lançamentos de Descarte e Remoção de resíduos sólidos de Santo André.
 
 
-## Acesso às telas do protótipo no FlutterFlow.
-
-- [Site do FlutterFlow](https://app.flutterflow.io/)
-- Usuário: aadfurtado@outlook.com
-- Senha: ProjetoAppEC
 
 
 ## Manutenções
