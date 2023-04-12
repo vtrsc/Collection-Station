@@ -2,6 +2,7 @@ App da Estação de Coleta
 
 Projeto responsável pelo gerenciamento dos lançamentos de Descarte e Remoção de resíduos sólidos de Santo André.
 
+https://www.canva.com/design/DAFajLLWtzs/1uCy7-gsQzBb0IYb34AxiQ/watch?utm_content=DAFajLLWtzs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
 
